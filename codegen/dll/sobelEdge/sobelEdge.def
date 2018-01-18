@@ -1,0 +1,4 @@
+EXPORTS
+sobelEdge
+sobelEdge_initialize
+sobelEdge_terminate
